@@ -4,7 +4,7 @@
 
 Margaret is 78 and lives alone. Her daughter Alex and son Sam help look after her. Hearthkeeper is the single plan they all see: medications and doses taken, appointments, who is doing what, a symptom journal, and a family feed. Margaret talks to the care agent (by voice or text). The agent edits the plan through WebMCP, and the family's screens update.
 
-Built for [The WebMCP Challenge](https://webmcp.devpost.com/).
+Built for [The WebMCP Challenge](https://webmcp.devpost.com/). **Live: https://hearthkeeper.vercel.app**
 
 ## Why WebMCP
 
